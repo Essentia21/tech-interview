@@ -17,12 +17,11 @@
 ### Array
 
 > :arrow_double_up:[Top](#1-data-structure)    :leftwards_arrow_with_hook:[Back](https://github.com/WeareSoft/tech-interview#1-data-structure)    :information_source:[Home](https://github.com/WeareSoft/tech-interview#tech-interview)
-> - []()
-
+* 배열이란 연관된 데이터를 하나의 변수에 그룹핑해서 관리하기 위한 방법. 배열을 이용하면 하나의 변수에 여러 정보를 담을 수 있고, 반복문과 결합하면 많은 정보도 효율적으로 처리할 수 있다.
 ### LinkedList
 
 > :arrow_double_up:[Top](#1-data-structure)    :leftwards_arrow_with_hook:[Back](https://github.com/WeareSoft/tech-interview#1-data-structure)    :information_source:[Home](https://github.com/WeareSoft/tech-interview#tech-interview)
-> - []()
+* Linked List는 Array List와는 다르게 엘리먼트와 엘리먼트 간의 연결(link)을 이용해서 리스트를 구현
 
 ### HashTable
 
