@@ -1,7 +1,6 @@
 # Tech Interview
 
 **:book: Contents**
-1. [Project](#1-project)
 2. [Data Structure](#2-data-structure)
 3. [Network](#3-network)
 4. [Operating System](#4-operating-system)
@@ -15,10 +14,6 @@
 12. [ETC](#12-etc)
 
 ---
-## 1. Project
-:arrow_forward: [답변 내용](/contents/Project.md)
-* NH은행/상호 PPR 전자창구 구축
-* NH선물 차세대 프로젝트
 
 ## 2. Data Structure
 :arrow_forward: [답변 내용](/contents/datastructure.md)
